@@ -8,3 +8,6 @@ venv/
 # Cache Python
 __pycache__/
 *.py[cod]
+
+# Bancos de dados locais
+*.db
